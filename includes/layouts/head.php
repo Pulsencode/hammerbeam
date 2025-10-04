@@ -1,0 +1,27 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+
+    <title>HammerBeam Contracting LLC - Building Strength. Building Trust.</title>
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+    <!--Default CSS-->
+    <link href="css/default.css" rel="stylesheet" type="text/css">
+
+    <!--Custom CSS-->
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+
+    <!--Blog CSS-->
+    <link href="css/blog.css" rel="stylesheet" type="text/css">
+
+    <!--Plugin CSS-->
+    <link href="css/plugin.css" rel="stylesheet" type="text/css">
+
+    <!--Font Awesome-->
+    <link href="css/font-awesome.css" rel="stylesheet" type="text/css">
+</head>
