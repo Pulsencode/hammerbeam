@@ -10,62 +10,33 @@
     </div>
     <?php include 'includes/layouts/header.php'; ?>
     <!-- Slider -->
-    <div id="home-banner"
-        class="carousel slide ps_indicators_l  ps_control_rotate_f kbrns_zoomInOut thumb_scroll_x swipe_x ps_easeOutQuart"
+    <div id="home-banner vh-100"
+        class="carousel"
         data-ride="carousel" data-pause="hover" data-interval="10000" data-duration="2000">
 
         <!-- Wrapper For Slides -->
         <div class="carousel-inner" role="listbox">
 
-            <!-- First Slide -->
+            <!-- Single Video Slide -->
             <div class="item active">
-                <!-- Slide Background -->
-                <img src="images/slider/slide-3.jpg" alt="slider_01" />
-                <!-- Left Slide Text Layer -->
+                <!-- Background Video -->
+                <video autoplay muted loop playsinline class="video-bg">
+                    <source src="videos/banner-video.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+
+                <!-- Slide Text Layer -->
                 <div class="caption_slide1 fadeInRight" data-animation="animated fadeInRight">
                     <span class="white">Experts in Structural Steel Construction</span>
                     <h1 class="white">Building Strength. Building Trust.</h1>
-                    <p class="white mar-bottom-25">Delivering safe, efficient, and quality-driven steel erection
-                        solutions that turn your vision into reality — on time, every time.</p>
-                    <!-- #TODO Change link -->
+                    <p class="white mar-bottom-25">
+                        Delivering safe, efficient, and quality-driven steel erection
+                        solutions that turn your vision into reality — on time, every time.
+                    </p>
                     <a href="#" class="btn mt_btn_yellow">Learn more</a>
-                </div><!-- /Left Slide Text Layer -->
-            </div><!-- /item -->
-            <!-- End of Slide -->
-
-            <!-- Second Slide -->
-            <div class="item">
-                <!-- Slide Background -->
-                <img src="images/slider/slide-2.jpg" alt="slider_02" />
-                <!-- Right Slide Text Layer -->
-                <div class="caption_slide1 wow fadeInUp" data-animation="animated fadeInLeft">
-                    <span class="white">Safety • Quality • Precision</span>
-                    <h1 class="white">Where Every Structure Stands for Excellence</h1>
-                    <p class="white mar-bottom-25">From planning to execution, every beam, bolt, and weld reflects our
-                        commitment to safety, reliability, and superior craftsmanship.</p>
-                    <!-- #TODO Change link -->
-                    <a href="#" class="btn mt_btn_yellow">Our Services</a>
-                </div><!-- /Right Slide Text Layer -->
-            </div><!-- /item -->
-            <!-- End of Slide -->
-
-            <!-- Third Slide -->
-            <div class="item">
-                <!-- Slide Background -->
-                <img src="images/slider/slide-1.jpg" alt="slider_03" />
-                <!-- Center Slide Text Layer -->
-                <div class="caption_slide1 wow fadeInDown" data-animation="animated fadeInDown">
-                    <span class="white">Shaping the Future of Steel Construction </span>
-                    <h1 class="white">Engineering Confidence, One Project at a Time</h1>
-                    <p class="white mar-bottom-25">With a skilled team and advanced methods, HammerBeam delivers
-                        innovative steel erection solutions built to last and built with care.</p>
-                    <!-- #TODO Change link -->
-                    <a href="#" class="btn mt_btn_yellow">Contact Us</a>
-                </div><!-- /Center Slide Text Layer -->
-            </div><!-- /item -->
-            <!-- End of Slide -->
-
-        </div><!-- End of Wrapper For Slides -->
+                </div>
+            </div>
+        </div>
 
         <!-- Left Control -->
         <a class="left carousel-control" href="#home-banner" role="button" data-slide="prev">

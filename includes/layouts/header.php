@@ -3,7 +3,7 @@
 
     <!-- top bar -->
     <div class="topbar-section">
-        <div class="container">
+        <div style="margin-left: 40px; margin-right: 40px;">
             <div class="topbar-inner">
                 <div class="top-bar-left pull-left">
                     <ul>
@@ -26,7 +26,7 @@
     <!-- navbar start -->
     <nav class="navbar navbar-default navbar-fixed-top navbar-sticky-function navbar-arrow">
 
-        <div class="container">
+        <div style="margin-left: 40px; margin-right: 40px;">
 
             <div class="logo pull-left">
                 <a href="index.html"><img src="images/c-logo.png" alt=""></a>
