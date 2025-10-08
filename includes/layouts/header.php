@@ -44,12 +44,7 @@
                         <a href="./services.php">Services<i class="fa"></i></a>
                     </li>
                     <li>
-                        <a href="./contact.html">Contact Us<i class="fa"></i></a>
-                    </li>
-                    <li>
-                        <div class="get-quote">
-                            <a href="#" class="btn mt_btn_yellow">Get A Quote</a>
-                        </div>
+                        <a href="./contact.php">Contact Us<i class="fa"></i></a>
                     </li>
                 </ul>
             </div><!--/.nav-collapse -->
