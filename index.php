@@ -33,7 +33,7 @@
                         Delivering safe, efficient, and quality-driven steel erection
                         solutions that turn your vision into reality — on time, every time.
                     </p>
-                    <a href="#" class="btn mt_btn_yellow">Learn more</a>
+                    <a href="/about.php" class="btn mt_btn_yellow">Learn more</a>
                 </div>
             </div>
         </div>
