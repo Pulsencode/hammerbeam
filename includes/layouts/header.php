@@ -11,14 +11,13 @@
                         <li><i class="fa fa-envelope"></i> Email: info@hammerbeamcontracting.com</li>
                     </ul>
                 </div>
-
-                <div class="top-bar-right pull-right">
+                <!-- <div class="top-bar-right pull-right">
                     <ul>
                         <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                     </ul>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
@@ -29,7 +28,7 @@
         <div style="margin-left: 40px; margin-right: 40px;">
 
             <div class="logo pull-left">
-                <a href="index.html"><img src="images/c-logo.png" alt=""></a>
+                <a href="index.php"><img src="images/c-logo.png" alt=""></a>
             </div>
 
             <div id="navbar" class="navbar-nav-wrapper pull-right">
