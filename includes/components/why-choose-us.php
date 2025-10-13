@@ -17,7 +17,7 @@
 
         <div class="row ">
             <div class="col-md-5 col-sm-12 col-xs-12 mission-image">
-                <img src="images/pic1.png" alt="mission-image">
+                <img src="images/why-us.jpg" alt="mission-image">
             </div>
             <div class="col-md-7 col-sm-12 col-xs-12 mission-list">
                 <div class="row">

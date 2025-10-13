@@ -10,7 +10,7 @@
     </div>
     <?php include 'includes/layouts/header.php'; ?>
     <!-- Slider -->
-    <div id="home-banner vh-100"
+    <div id="home-banner"
         class="carousel"
         data-ride="carousel" data-pause="hover" data-interval="10000" data-duration="2000">
 
@@ -61,7 +61,7 @@
             <div class="row">
                 <div class="col-md-4 col-sm-6 col-xs-6">
                     <div class="box mar-bottom-30 text-center">
-                        <img src="images/blog-listing/blog_01.jpg" alt="services-1">
+                        <img src="images/services/structure.jpg" alt="services-1">
                         <div class="box-content">
                             <h3><a href="#">Structural Steel Erection</a></h3>
                             <p>Safe, efficient, and timely erection of steel structures from high-rise frameworks to
@@ -72,7 +72,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-6">
                     <div class="box mar-bottom-30 text-center">
-                        <img src="images/blog-listing/blog_13.jpg" alt="services-2">
+                        <img src="images/services/pre-engine.jpg" alt="services-2">
                         <div class="box-content">
                             <h3><a href="#">Pre-Engineered Building (PEB) Installation</a></h3>
                             <p>Expert installation of pre-engineered steel buildings for warehouses, factories, and
@@ -82,7 +82,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-6">
                     <div class="box mar-bottom-30 text-center">
-                        <img src="images/blog-listing/blog_10.jpg" alt="services-3">
+                        <img src="images/services/steel-fabri.jpg" alt="services-3">
                         <div class="box-content">
                             <h3><a href="#">Steel Fabrication & Assembly</a></h3>
                             <p>Comprehensive fabrication and assembly solutions with precision cutting, welding, and

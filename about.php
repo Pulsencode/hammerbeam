@@ -73,7 +73,7 @@
                     </div>
 
                     <div class="about-img">
-                        <img src="images/project/bw13.jpg" alt="about image">
+                        <img src="images/project/clientele.jpg" alt="about image">
                     </div>
 
                 </div>
