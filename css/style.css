@@ -1967,7 +1967,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
 #mt_footer {
     background: #000 url(../images/footer-bg.jpg) no-repeat;
     background-size: 100%;
-    padding-top: 80px;
+    padding-top: 40px;
     position: relative;
 }
 
@@ -2097,7 +2097,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
 
 #mt_footer .mt_footer_copy {
     border-top: 1px solid #f1f1f1;
-    margin-top: 80px;
+    /* margin-top: 80px; */
     padding: 16px 0 5px;
 }
 

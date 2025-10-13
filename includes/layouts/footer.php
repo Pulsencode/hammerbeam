@@ -8,34 +8,8 @@
                         <img src="images/c-logo.png" alt="Logo">
                     </a>
                     <p> HammerBeam Contracting LLC delivers safe, efficient, and reliable steel erection and
-                        construction solutions across the region. <br>
-                        Built on safety, precision, and trust, we transform visions into lasting steel structures.
+                        construction solutions across the region.
                     </p>
-
-                    <h4>Follow Us on</h4>
-                    <ul class="social_icons">
-
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-facebook"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-twitter"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-instagram"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fa fa-linkedin"></i>
-                            </a>
-                        </li>
-                    </ul>
                 </div>
             </div>
             <div class="col-md-2 col-sm-6 col-xs-12">
@@ -46,6 +20,15 @@
                         <li><a href="./about.php"><i class="fa fa-angle-right"></i>About Us</a></li>
                         <li><a href="./services.php"><i class="fa fa-angle-right"></i>Services</a></li>
                         <li><a href="./contact.php"><i class="fa fa-angle-right"></i>Contact Us</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-2 col-sm-6 col-xs-12">
+                <div class="mt_contact_ftr">
+                    <h3>Services</h3>
+                    <ul>
+                        <li><a href="./services.php"><i class="fa fa-angle-right"></i>Structural Steel Erection</a></li>
+                        <li><a href="./services.php"><i class="fa fa-angle-right"></i>Pre-Engineered Building (PEB) Installation</a></li>
                     </ul>
                 </div>
             </div>
