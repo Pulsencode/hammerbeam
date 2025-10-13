@@ -39,11 +39,9 @@
                     <!-- section title -->
                     <div class="section_heading">
                         <h2 class="section_title">
-                            <span>WE BUILD THE PERFECT HOME FOR YOU</span>
+                            <span>We Build the Perfect Structure for You</span>
                         </h2>
-                        <p class="heading_txt">There are variations available majoritaey suffered alteration words which look believable
-                            dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.<br><br>
-                            At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.</p>
+                        <p class="heading_txt">At HammerBeam Contracting LLC, we combine engineering excellence with a client-centered approach to deliver structural steel and construction solutions that stand the test of time. Whether you're envisioning a sleek industrial facility, a durable warehouse, or a precision-engineered building, we're committed to delivering quality results on schedule and within budget.</p>
                     </div>
                 </div>
             </div>
@@ -54,7 +52,7 @@
                         <div class="box text-center">
                             <div class="box-content">
                                 <h3><a href="#">DEDICATED TECHNOLOGY</a></h3>
-                                <p>Excepteur sint occaecat cupi datat non proi dent, sunt in culpa qui off icia..</p>
+                                <p>We utilize advanced design tools and industry-leading software such as structural modeling, BIM, and load analysis software to ensure accurate planning, minimize waste, and catch structural challenges early.</p>
                             </div>
                         </div>
                     </div>
@@ -62,7 +60,7 @@
                         <div class="box text-center">
                             <div class="box-content">
                                 <h3><a href="#">DELIVERY ON TIME</a></h3>
-                                <p>Excepteur sint occaecat cupi datat non proi dent, sunt in culpa qui off icia..</p>
+                                <p>Time is money. We plan every project with realistic milestones, monitor progress daily, and coordinate tightly across procurement, on-site teams, and vendors. Our track record shows we reliably meet or beat our deadlines.</p>
                             </div>
                         </div>
                     </div>
@@ -70,7 +68,7 @@
                         <div class="box text-center">
                             <div class="box-content">
                                 <h3><a href="#">CERTIFIED ENGINEERS</a></h3>
-                                <p>Excepteur sint occaecat cupi datat non proi dent, sunt in culpa qui off icia..</p>
+                                <p>Our team includes certified structural, civil, and welding engineers who bring decades of field experience. Each project undergoes rigorous review and quality checks to ensure safety, code compliance, and long-term durability.</p>
                             </div>
                         </div>
                     </div>
@@ -83,64 +81,57 @@
                         <!-- section title -->
                         <div class="section_heading">
                             <h2 class="section_title">
-                                <span>WHO CHOOSE THIS SERVICE</span>
+                                <span>Why Clients Choose Us</span>
                             </h2>
-                            <p class="heading_txt">There are variations available majoritaey suffered alteration words which look believable
-                                dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.</p>
+                            <p class="heading_txt">From beams and columns to bracing systems, we erect robust frameworks that form the backbone of your facility, with precision and stability.</p>
                         </div>
                     </div>
 
                     <div class="col-md-4 col-sm-6 col-xs-6">
                         <div class="box mar-bottom-30 text-center">
                             <div class="box-content">
-                                <div class="icon mar-bottom-20"><i class="fa fa-trophy"></i></div>
                                 <h3 class="text-uppercase"><a href="#">Best Quality</a></h3>
-                                <p>Excepteur sint occaecat cupi datat non proi dent, sunt in culpa qui off icia..</p>
+                                <p>Excellence is non-negotiable. From base materials and welding standards to final finishes, we hold every component to the highest standards in the industry.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6">
                         <div class="box mar-bottom-30 text-center">
                             <div class="box-content">
-                                <div class="icon mar-bottom-20"><i class="fa fa-pencil"></i></div>
                                 <h3 class="text-uppercase"><a href="#">Integrity</a></h3>
-                                <p>Excepteur sint occaecat cupi datat non proi dent, sunt in culpa qui off icia..</p>
+                                <p>Transparency, honesty, and accountability guide every decision. We keep you informed, stick to agreed terms, and own any issues that arise.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6">
                         <div class="box mar-bottom-30 text-center">
                             <div class="box-content">
-                                <div class="icon mar-bottom-20"><i class="fa fa-flag-checkered"></i></div>
-                                <h3 class="text-uppercase"><a href="#">Strategy</a></h3>
-                                <p>Excepteur sint occaecat cupi datat non proi dent, sunt in culpa qui off icia..</p>
+                                <h3 class="text-uppercase">Strategy</h3>
+                                <p>We don't just build; we strategize. Before laying steel, we evaluate logistics, site constraints, future expansion, and long-term maintenance so your project is future-ready.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6">
                         <div class="box text-center">
                             <div class="box-content">
-                                <div class="icon mar-bottom-20"><i class="fa fa-hand-rock-o"></i></div>
-                                <h3 class="text-uppercase"><a href="#">SAFETY</a></h3>
-                                <p>Excepteur sint occaecat cupi datat non proi dent, sunt in culpa qui off icia..</p>
+                                <h3 class="text-uppercase">SAFETY</h3>
+                                <p>Safety is embedded in every process—from site setup to daily work execution. We adhere to best practices, perform regular audits, and keep safety training fresh for all team members.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6">
                         <div class="box text-center">
                             <div class="box-content">
-                                <div class="icon mar-bottom-20"><i class="fa fa-users"></i></div>
-                                <h3 class="text-uppercase"><a href="#">COMMUNITY</a></h3>
-                                <p>Excepteur sint occaecat cupi datat non proi dent, sunt in culpa qui off icia..</p>
+                                <h3 class="text-uppercase">COMMUNITY</h3>
+                                <p>Our projects support local economies, employ regional labor, and respect the communities in which we build. We aim to leave a positive footprint beyond the steel we raise.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 col-xs-6">
                         <div class="box text-center">
                             <div class="box-content">
-                                <div class="icon mar-bottom-20"><i class="fa fa-graduation-cap"></i></div>
-                                <h3 class="text-uppercase"><a href="#">SUSTAINABILITY</a></h3>
-                                <p>Excepteur sint occaecat cupi datat non proi dent, sunt in culpa qui off icia..</p>
+                                <h3 class="text-uppercase">SUSTAINABILITY</h3>
+                                <p>We strive to minimize environmental impact by using efficient designs, recycled steel where feasible, waste reduction strategies, and energy-smart methods on site.</p>
                             </div>
                         </div>
                     </div>
