@@ -45,6 +45,9 @@
                     <li>
                         <a href="./contact.php">Contact Us<i class="fa"></i></a>
                     </li>
+                    <li>
+                        <a href="tel:+971501234567" class="btn mt_btn_yellow">Talk with our expert!<i class="fa"></i></a>
+                    </li>
                 </ul>
             </div><!--/.nav-collapse -->
         </div>

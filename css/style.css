@@ -2738,7 +2738,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
 
 .caption_slide1 > span {
     display: block;
-    font-size: 16px;
+    font-size: 23px;
     font-weight: 500;
     padding-left: 62px;
     position: relative;
@@ -2749,7 +2749,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
     content: '';
     height: 2px;
     width: 6%;
-    background: #00000;
+    background: #0000;
     position: absolute;
     top: 46%;
     left: 0;
@@ -2767,9 +2767,9 @@ section#mt_faq-testi .section_heading{padding: 0;}
   .caption_slide1{width: 55%;}
 }
 
-@media(max-width:991px ){
+@media(min-width:991px ){
 
-  .caption_slide1 > h1{font-size: 40px;}
+  .caption_slide1 > h1{font-size: 70px;}
 
   .caption_slide1 > h2{font-size: 32px;}
 
@@ -2778,6 +2778,8 @@ section#mt_faq-testi .section_heading{padding: 0;}
   .ps_control_rotate_f .carousel-control.right{right: 0; } 
 
   .caption_slide1{left: 10%;}
+
+  .caption_slide1 > span{padding-left: 4px;}
 
 }
 
@@ -2794,13 +2796,13 @@ section#mt_faq-testi .section_heading{padding: 0;}
     width: 80%;
   }
 
-  .caption_slide1 > h1{font-size: 32px;}
+  .caption_slide1 > h1{font-size: 40px;}
 }
 
 @media(max-width: 360px){
-  .caption_slide1 > h1{font-size: 24px;}
+  .caption_slide1 > h1{font-size: 36px;}
 
-  .caption_slide1 > span{padding-left: 35px;}
+  .caption_slide1 > span{font-size: 16px; padding-left: 4px;}
 }
 
 @media(max-width: 359px){

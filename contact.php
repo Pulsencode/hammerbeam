@@ -13,11 +13,11 @@
     <?php include 'includes/layouts/header.php'; ?>
 
     <!-- pagebanner -->
-    <section id="pagebanner">
+    <!-- <section id="pagebanner">
         <div class="page-title">
             <h2 class="white text-center">Contact Us</h2>
         </div>
-    </section>
+    </section> -->
     <!-- End Pagebanner -->
 
     <!-- breadcrumb -->
@@ -31,7 +31,7 @@
     </div><!-- End breadcrumb -->
 
     <!--* Contact*-->
-    <section id="mt_contact" class="contact-main">
+    <section id="mt_contact" class="contact-main" style="margin-top: 30px;">
         <div class="container">
 
             <div class="row">

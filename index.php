@@ -63,7 +63,7 @@
                     <div class="box mar-bottom-30 text-center">
                         <img src="images/services/structure.jpg" alt="services-1">
                         <div class="box-content">
-                            <h3><a href="#">Structural Steel Erection</a></h3>
+                            <h3>Hot Rolled Steel Structures</h3>
                             <p>Safe, efficient, and timely erection of steel structures from high-rise frameworks to
                                 complex industrial installations handled by certified professionals and modern
                                 equipment.</p>
@@ -74,7 +74,7 @@
                     <div class="box mar-bottom-30 text-center">
                         <img src="images/services/pre-engine.jpg" alt="services-2">
                         <div class="box-content">
-                            <h3><a href="#">Pre-Engineered Building (PEB) Installation</a></h3>
+                            <h3>Pre-Engineered Building</h3>
                             <p>Expert installation of pre-engineered steel buildings for warehouses, factories, and
                                 commercial spaces, ensuring structural integrity and smooth project delivery.</p>
                         </div>
@@ -84,7 +84,7 @@
                     <div class="box mar-bottom-30 text-center">
                         <img src="images/services/steel-fabri.jpg" alt="services-3">
                         <div class="box-content">
-                            <h3><a href="#">Steel Fabrication & Assembly</a></h3>
+                            <h3>Roof Cladding</h3>
                             <p>Comprehensive fabrication and assembly solutions with precision cutting, welding, and
                                 alignment — delivering strength, durability, and accuracy in every component.</p>
                         </div>
@@ -94,6 +94,8 @@
         </div>
     </section>
     <!--* End Services*-->
+
+    <?php include 'includes/components/testimonials.php'; ?>
 
     <?php include 'includes/components/why-choose-us.php'; ?>
 

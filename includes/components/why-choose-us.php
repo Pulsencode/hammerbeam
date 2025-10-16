@@ -23,7 +23,6 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <div class="choose-list mar-bottom-30">
-                            <i class="fa fa-users"></i>
                             <h3>Team of Professionals</h3>
                             <p>Certified experts delivering precision and reliability in every project.
                             </p>
@@ -32,7 +31,6 @@
 
                     <div class="col-sm-6">
                         <div class="choose-list mar-bottom-30">
-                            <i class="fa fa-paint-brush"></i>
                             <h3>Commitment to Safety</h3>
                             <p>Strict adherence to international safety standards on every site.
                             </p>
@@ -41,7 +39,6 @@
 
                     <div class="col-sm-6">
                         <div class="choose-list mar-bottom-30">
-                            <i class="fa fa-phone"></i>
                             <h3>Precision & Quality</h3>
                             <p>Superior craftsmanship backed by modern tools and inspections.
                             </p>
@@ -50,7 +47,6 @@
 
                     <div class="col-sm-6">
                         <div class="choose-list mar-bottom-30">
-                            <i class="fa fa-cogs"></i>
                             <h3>Timely Delivery</h3>
                             <p>Efficient planning ensures projects are completed right on schedule.
                             </p>
@@ -59,7 +55,6 @@
 
                     <div class="col-sm-6">
                         <div class="choose-list">
-                            <i class="fa fa-building"></i>
                             <h3>Advanced Equipment & Techniques</h3>
                             <p>Modern cranes and machinery for safe, efficient steel erection.
                             </p>
@@ -68,7 +63,6 @@
 
                     <div class="col-sm-6">
                         <div class="choose-list">
-                            <i class="fa fa-picture-o"></i>
                             <h3>Client-Focused Approach</h3>
                             <p>Clear communication and lasting client relationships.
                             </p>
