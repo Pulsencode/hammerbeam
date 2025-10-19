@@ -18,7 +18,7 @@
                     <ul>
                         <li><a href="./index.php"><i class="fa fa-angle-right"></i>Home</a></li>
                         <li><a href="./about.php"><i class="fa fa-angle-right"></i>About Us</a></li>
-                        <li><a href="./services.php"><i class="fa fa-angle-right"></i>Services</a></li>
+                        <!-- <li><a href="./services.php"><i class="fa fa-angle-right"></i>Services</a></li> -->
                         <li><a href="./contact.php"><i class="fa fa-angle-right"></i>Contact Us</a></li>
                     </ul>
                 </div>
@@ -28,7 +28,12 @@
                     <h3>Services</h3>
                     <ul>
                         <li><a href="./services.php"><i class="fa fa-angle-right"></i>Structural Steel Erection</a></li>
-                        <li><a href="./services.php"><i class="fa fa-angle-right"></i>Pre-Engineered Building (PEB) Installation</a></li>
+                        <li><a href="./services.php"><i class="fa fa-angle-right" style="margin-left: 30px;"></i>Hot Rolled Steel Structures </a></li>
+                        <li><a href="./services.php"><i class="fa fa-angle-right" style="margin-left: 30px;"></i>Pre-Engineered Steel Buildings </a></li>
+                        <li><a href="./services.php"><i class="fa fa-angle-right"></i>Cladding</a></li>
+                        <li><a href="./services.php"><i class="fa fa-angle-right" style="margin-left: 30px;"></i>Single Skin and Sandwich Panel</a></li>
+                        <li><a href="./services.php"><i class="fa fa-angle-right" style="margin-left: 30px;"></i>Decking</a></li>
+                        <li><a href="./services.php"><i class="fa fa-angle-right" style="margin-left: 30px;"></i>Standing Seam</a></li>
                     </ul>
                 </div>
             </div>

@@ -11,13 +11,6 @@
                         <li><i class="fa fa-envelope"></i> Email: info@hammerbeamcontracting.com</li>
                     </ul>
                 </div>
-                <!-- <div class="top-bar-right pull-right">
-                    <ul>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                    </ul>
-                </div> -->
             </div>
         </div>
     </div>
@@ -46,7 +39,7 @@
                         <a href="./contact.php">Contact Us<i class="fa"></i></a>
                     </li>
                     <li>
-                        <a href="tel:+971501234567" class="btn mt_btn_yellow">Talk with our expert!<i class="fa"></i></a>
+                        <a href="tel:+971501234567" id="custom-cta-btn">Call Us Now!</a>
                     </li>
                 </ul>
             </div><!--/.nav-collapse -->

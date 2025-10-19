@@ -44,38 +44,14 @@
                         <p class="heading_txt">At HammerBeam Contracting LLC, we combine engineering excellence with a client-centered approach to deliver structural steel and construction solutions that stand the test of time. Whether you're envisioning a sleek industrial facility, a durable warehouse, or a precision-engineered building, we're committed to delivering quality results on schedule and within budget.</p>
                     </div>
                 </div>
-            </div>
-
-            <div class="services-chain">
-                <div class="row">
-                    <div class="col-md-4 col-sm-12">
-                        <div class="box text-center">
-                            <div class="box-content">
-                                <h3><a href="#">DEDICATED TECHNOLOGY</a></h3>
-                                <p>We utilize advanced design tools and industry-leading software such as structural modeling, BIM, and load analysis software to ensure accurate planning, minimize waste, and catch structural challenges early.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-6 col-xs-12">
-                        <div class="box text-center">
-                            <div class="box-content">
-                                <h3><a href="#">DELIVERY ON TIME</a></h3>
-                                <p>Time is money. We plan every project with realistic milestones, monitor progress daily, and coordinate tightly across procurement, on-site teams, and vendors. Our track record shows we reliably meet or beat our deadlines.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-6 col-xs-12">
-                        <div class="box text-center">
-                            <div class="box-content">
-                                <h3><a href="#">CERTIFIED ENGINEERS</a></h3>
-                                <p>Our team includes certified structural, civil, and welding engineers who bring decades of field experience. Each project undergoes rigorous review and quality checks to ensure safety, code compliance, and long-term durability.</p>
-                            </div>
-                        </div>
+                <div class="col-sm-12 wow slideInDown">
+                    <div class="about-img">
+                        <img src="images/services/service-page.jpg">
                     </div>
                 </div>
             </div>
 
-            <div class="services_listing mar-top-60">
+            <div class="services_listing mar-top-30">
                 <div class="row">
                     <div class="col-xs-12">
                         <!-- section title -->
@@ -84,6 +60,11 @@
                                 <span>Why Clients Choose Us</span>
                             </h2>
                             <p class="heading_txt">From beams and columns to bracing systems, we erect robust frameworks that form the backbone of your facility, with precision and stability.</p>
+                        </div>
+                        <div class="col-sm-12 wow slideInDown">
+                            <div class="about-img">
+                                <img src="images/services/client-service.jpg">
+                            </div>
                         </div>
                     </div>
 

@@ -42,8 +42,19 @@
                         <div class="about-content">
                             <span class="mar-bottom-15">Our mission</span>
                             <h2 class="mar-bottom-30">Our Mission is to Turn <br>Your Ideas Into Businesses.</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat laboris nisi ut aliquip ex ea commodo consequat.</p>
+                            <p>
+                                At Hammerbeam Contracting, our mission is to transform vision into reality by delivering
+                                structurally-sound, cost-efficient, and intelligent steel construction solutions. We partner
+                                closely with developers, consultants, and project owners to convert concepts into engineered
+                                assets that perform for decades.
+                            </p>
+
+                            <p>
+                                Every project we execute is driven by precision, safety, and accountability. From design
+                                coordination and fabrication to on-site erection and final handover, we ensure our work
+                                meets global standards, withstands real-world demands, and contributes to our clients’
+                                long-term business success.
+                            </p>
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-12">

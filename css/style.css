@@ -844,7 +844,7 @@ section#choose_us.about_choose_us {
     padding-bottom: 0;
 }
 
-.page #mt_about.mission{padding-top: 50px; padding-bottom: 0;}
+.page #mt_about.mission{padding-bottom: 0;}
 
 .page #mt_about .about-content{padding: 0;}
 
@@ -1982,7 +1982,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
 
 #mt_footer h3 {
   color: #fff;
-  margin: 0 0 65px; 
+  /* margin: 0 0 65px;  */
   position: relative;
 }
 
@@ -2026,7 +2026,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
 
 #mt_footer .follow_us .social_icons li a:hover {color: #00000; }
 
-#mt_footer .mt_contact_ftr {float: left; width: 100%; }
+#mt_footer .mt_contact_ftr {float: left; width: 200%; }
 
 #mt_footer .mt_contact_ftr li {
   padding-left: 0;
@@ -2182,7 +2182,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
     bottom: 20px;
     right: 20px;
     display:none;
-    background-color:#00000; 
+    background-color:#0000 !important; 
     border:none;
     border-radius: 50%;
     height: 45px;
@@ -2195,7 +2195,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
 #back-to-top:hover{
     opacity: 0.8;
     color: #fff;
-    background-color:#00000; 
+    background-color:#00000000; 
 }
 
 #back-to-top:hover span{color: #fff;}
@@ -2715,7 +2715,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
 .caption_slide1{
   top: 23%;
   left: 9%;
-  width: 45%;
+  width: 60%;
   right: auto;
   text-align: left;
   position: absolute;
@@ -2760,7 +2760,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
 /*------------------------------------------------------*/
 
 @media(min-width: 1400px){
-  .caption_slide1{width: 40%; top: 31%;}
+  .caption_slide1{width: 45%; top: 31%;}
 }
 
 @media(max-width: 1100px){
@@ -4738,4 +4738,14 @@ p.lt-pswrd{margin-bottom: 20px;}
    -ms-animation: none !important;
    animation: none !important;
   }
+}
+
+#custom-cta-btn {
+    background: #909090;
+    color: #fffafa !important;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 15px; /* creates space from Contact Us */
+    padding: 10px !important;
+    margin-top: 15px;
 }

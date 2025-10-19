@@ -29,7 +29,7 @@
                 <div class="caption_slide1 fadeInRight" data-animation="animated fadeInRight">
                     <span class="white">Experts in Structural Steel Construction</span>
                     <h1 class="white">Building Strength. Building Trust.</h1>
-                    <p class="white mar-bottom-25">
+                    <p class="white mar-bottom-25" style="font-size: 20px">
                         Delivering safe, efficient, and quality-driven steel erection
                         solutions that turn your vision into reality — on time, every time.
                     </p>
@@ -102,7 +102,7 @@
     <?php include 'includes/layouts/footer.php'; ?>
 
     <!-- back to top -->
-    <a id="back-to-top" href="#" class="btn btn-primary btn-lg back-to-top" role="button" title=""
+    <a id="back-to-top" href="#" class="back-to-top" role="button" title=""
         data-placement="left">
         <span class="fa fa-arrow-up"></span>
     </a>

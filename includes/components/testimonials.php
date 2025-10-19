@@ -33,8 +33,10 @@
                     <div class="row slider-testi">
                         <div class="col-xs-12">
                             <div class="testimonial_main">
-                                <p class="mar-bottom-30">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal.</p>
-                                <div class="client-pic"><img src="images/team/member-1.jpg" alt=""></div>
+                                <p class="mar-bottom-30">
+                                    Hammerbeam Contracting delivered our steel structure exactly as promised — on schedule and with flawless execution. Their team is technically strong and handled every phase professionally.
+                                </p>
+                                <div class="client-pic"><img src="images/testimonial/testimonial_1.jpg" alt=""></div>
                                 <h4>
                                     <a href="#">Christopher Daniel</a>
                                     <span>MD of Nicolos</span>
@@ -44,8 +46,10 @@
 
                         <div class="col-xs-12">
                             <div class="testimonial_main">
-                                <p class="mar-bottom-30">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal.</p>
-                                <div class="client-pic"><img src="images/team/member-2.jpg" alt=""></div>
+                                <p class="mar-bottom-30">
+                                    From the first meeting to handover, the coordination and transparency were outstanding. They maintained safety and quality without any compromise throughout our project.
+                                </p>
+                                <div class="client-pic"><img src="images/testimonial/testimonial_2.jpg" alt=""></div>
                                 <h4>
                                     <a href="#">John Wakson</a>
                                     <span>CEO Of Micro group</span>
@@ -55,8 +59,10 @@
 
                         <div class="col-xs-12">
                             <div class="testimonial_main">
-                                <p class="mar-bottom-30">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal.</p>
-                                <div class="client-pic"><img src="images/team/member-3.jpg" alt=""></div>
+                                <p class="mar-bottom-30">
+                                    The fabrication and erection work was precise and neat. Hammerbeam's site team communicated clearly at every stage and ensured a seamless workflow with other contractors.
+                                </p>
+                                <div class="client-pic"><img src="images/testimonial/testimonial_3.jpg" alt=""></div>
                                 <h4>
                                     <a href="#">Tim Loran</a>
                                     <span>CEO Of Tim Lake</span>
@@ -65,8 +71,10 @@
                         </div>
                         <div class="col-xs-12">
                             <div class="testimonial_main">
-                                <p class="mar-bottom-30">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal.</p>
-                                <div class="client-pic"><img src="images/team/member-2.jpg" alt=""></div>
+                                <p class="mar-bottom-30">
+                                    We highly recommend Hammerbeam Contracting for any structural steel works. Their engineering understanding and commitment to deadlines make them a reliable partner.
+                                </p>
+                                <div class="client-pic"><img src="images/testimonial/testimonial_4.jpg" alt=""></div>
                                 <h4>
                                     <a href="#">John Wakson</a>
                                     <span>CEO Of Micro group</span>
