@@ -34,7 +34,7 @@
     <?php include 'includes/components/why-choose-us.php'; ?>
 
     <!--*About*-->
-    <section id="mt_about" class="mission">
+    <section id="mt_about" class="mission" style="margin-bottom: 50px;">
         <div class="container">
             <div class="about_inner">
                 <div class="row">
@@ -67,8 +67,6 @@
         </div>
     </section>
     <!--*EndAbout*-->
-
-    <?php include 'includes/components/testimonials.php'; ?>
 
     <?php include 'includes/layouts/footer.php'; ?>
 

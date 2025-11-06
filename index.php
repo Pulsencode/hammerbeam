@@ -20,7 +20,7 @@
             <!-- Single Video Slide -->
             <div class="item active">
                 <!-- Background Video -->
-                <video autoplay muted loop playsinline class="video-bg">
+                <video autoplay muted loop playsinline style="width: auto; height: 100%; object-fit: cover;">
                     <source src="videos/banner-video.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
@@ -28,10 +28,11 @@
                 <!-- Slide Text Layer -->
                 <div class="caption_slide1 fadeInRight" data-animation="animated fadeInRight">
                     <span class="white">Experts in Structural Steel Construction</span>
-                    <h1 class="white">Building Strength. Building Trust.</h1>
+                    <h1 class="white" style="line-height: 1;">Building Strength.</h1>
+                    <h1 class="white">Building Trust.</h1>
                     <p class="white mar-bottom-25" style="font-size: 20px">
                         Delivering safe, efficient, and quality-driven steel erection
-                        solutions that turn your vision into reality — on time, every time.
+                        solutions that turn your <br> vision into reality on time, every time.
                     </p>
                     <a href="/about.php" class="btn mt_btn_yellow">Learn more</a>
                 </div>
@@ -94,8 +95,6 @@
         </div>
     </section>
     <!--* End Services*-->
-
-    <?php include 'includes/components/testimonials.php'; ?>
 
     <?php include 'includes/components/why-choose-us.php'; ?>
 

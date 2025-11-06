@@ -4741,8 +4741,18 @@ p.lt-pswrd{margin-bottom: 20px;}
 }
 
 #custom-cta-btn {
-    background: #909090;
-    color: #fffafa !important;
+    background: #ffffff;
+    color: #000000 !important;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 15px; /* creates space from Contact Us */
+    padding: 10px !important;
+    margin-top: 15px;
+}
+
+#custom-cta-btn:hover {
+    background: #dadada !important;
+    color: #ffffff !important;
     border-radius: 10px;
     display: inline-block;
     margin-left: 15px; /* creates space from Contact Us */
