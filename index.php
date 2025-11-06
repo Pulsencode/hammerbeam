@@ -101,12 +101,7 @@
     <?php include 'includes/layouts/footer.php'; ?>
 
     <!-- back to top -->
-    <a id="back-to-top" href="#" class="back-to-top" role="button" title=""
-        data-placement="left">
-        <span class="fa fa-arrow-up"></span>
-    </a>
-
-    <!--*Scripts*-->
+    <?php include 'includes/components/back-to-top.php'; ?>
 
     <!-- Latest jquery -->
     <script src="js/jquery-3.2.1.min.js"></script>
