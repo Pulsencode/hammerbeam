@@ -31,8 +31,8 @@
                     <h1 class="white" style="line-height: 1;">Building Strength.</h1>
                     <h1 class="white">Building Trust.</h1>
                     <p class="white mar-bottom-25" style="font-size: 20px">
-                        Delivering safe, efficient, and quality-driven steel erection
-                        solutions that turn your <br> vision into reality on time, every time.
+                        Delivering safe, efficient, and quality driven steel erection
+                        solutions that turn your vision into reality on time, every time.
                     </p>
                     <a href="/about.php" class="btn mt_btn_yellow">Learn more</a>
                 </div>
