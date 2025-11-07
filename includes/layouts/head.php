@@ -27,24 +27,42 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+<?php
+// Calculate base path based on where this file is included from
+// Determine if we're in a subdirectory (like services/)
+$script_path = $_SERVER['SCRIPT_NAME'];
+$script_dir = dirname($script_path);
+
+// Normalize the path (handle both forward and backslashes)
+$script_dir = str_replace('\\', '/', $script_dir);
+$script_dir = trim($script_dir, '/');
+
+// If script is in root, base_path is empty, otherwise it's '../' for each level
+$base_path = '';
+if (!empty($script_dir) && $script_dir != '.' && $script_dir != '/') {
+    // Count the number of directory levels
+    $depth = substr_count($script_dir, '/') + 1;
+    $base_path = str_repeat('../', $depth);
+}
+?>
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="<?php echo $base_path; ?>images/favicon.png">
 
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="<?php echo $base_path; ?>css/bootstrap.min.css" rel="stylesheet" type="text/css">
 
     <!--Default CSS-->
-    <link href="css/default.css" rel="stylesheet" type="text/css">
+    <link href="<?php echo $base_path; ?>css/default.css" rel="stylesheet" type="text/css">
 
     <!--Custom CSS-->
-    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <link href="<?php echo $base_path; ?>css/style.css" rel="stylesheet" type="text/css">
 
     <!--Blog CSS-->
-    <link href="css/blog.css" rel="stylesheet" type="text/css">
+    <link href="<?php echo $base_path; ?>css/blog.css" rel="stylesheet" type="text/css">
 
     <!--Plugin CSS-->
-    <link href="css/plugin.css" rel="stylesheet" type="text/css">
+    <link href="<?php echo $base_path; ?>css/plugin.css" rel="stylesheet" type="text/css">
 
     <!--Font Awesome-->
-    <link href="css/font-awesome.css" rel="stylesheet" type="text/css">
+    <link href="<?php echo $base_path; ?>css/font-awesome.css" rel="stylesheet" type="text/css">
 </head>
