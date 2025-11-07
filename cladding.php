@@ -24,12 +24,12 @@
                         <p>An economical and versatile roofing solution made from profiled metal sheets, providing durable protection against the elements. Ideal for warehouses and industrial structures, single skin cladding offers quick installation and low maintenance. Engineered for performance and efficiency, sandwich panels consist of two metal facings bonded to an insulated core (PU, PIR, or Rockwool). This system ensures superior thermal insulation, aesthetic appeal, and rapid installation — making it a preferred choice for commercial, industrial, and cold storage facilities.</p>
                     </div>
                     <div class="col-md-4 col-sm-12">
-                        <img src="../images/project/bw5.jpg" alt="services-img">
+                        <img src="../images/services/Single Skin & Sandwich Panel.jpg" alt="services-img">
                     </div>
                 </div>
                 <div class="row" style="margin-top: 70px;">
                     <div class="col-md-4 col-sm-12">
-                        <img src="../images/project/bw5.jpg" alt="services-img">
+                        <img src="../images/services/Decking.jpg" alt="services-img">
                     </div>
                     <div class="col-md-8 col-sm-12">
                         <h2 class="mar-bottom-15">Decking</h2>
@@ -42,7 +42,7 @@
                         <p>A high-performance roofing system featuring concealed fasteners and raised seams for exceptional weather tightness and a sleek architectural finish. Standing seam roofs accommodate thermal movement and deliver long-lasting protection — ideal for modern commercial and industrial projects.</p>
                     </div>
                     <div class="col-md-4 col-sm-12">
-                        <img src="../images/project/bw5.jpg" alt="services-img">
+                        <img src="../images/services/Standing Seam Roofing.jpg" alt="services-img">
                     </div>
                 </div>
             </div>
