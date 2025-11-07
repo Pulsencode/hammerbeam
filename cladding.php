@@ -1,49 +1,16 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="zxx">
 
-<?php include '../includes/layouts/head.php'; ?>
+<?php include './includes/layouts/head.php'; ?>
 
 <body>
     <!--PRELOADER-->
     <div class="preloader">
         <div class="spinner"></div>
     </div>
-    <!--*Header*-->
-    <header id="inner-navigation">
-        <!-- navbar start -->
-        <nav class="navbar navbar-default navbar-fixed-top navbar-sticky-function navbar-arrow">
 
-            <div style="margin-left: 40px; margin-right: 40px;">
+    <?php include './includes/layouts/header.php'; ?>
 
-                <div class="logo pull-left">
-                    <a href="../index.php"><img src="../images/c-logo.png" alt=""></a>
-                </div>
-
-                <div id="navbar" class="navbar-nav-wrapper pull-right">
-                    <ul class="nav navbar-nav navbar-right" id="responsive-menu">
-                        <li class="active">
-                            <a href="../index.php">Home <i class="fa"></i></a>
-                        </li>
-                        <li>
-                            <a href="../about.php">About Us<i class="fa"></i></a>
-                        </li>
-                        <li>
-                            <a href="../services.php">Services<i class="fa"></i></a>
-                        </li>
-                        <li>
-                            <a href="../contact.php">Contact Us<i class="fa"></i></a>
-                        </li>
-                        <li>
-                            <a href="tel:+971501234567" id="custom-cta-btn">Call Us Now!</a>
-                        </li>
-                    </ul>
-                </div><!--/.nav-collapse -->
-            </div>
-            <div id="slicknav-mobile"></div>
-        </nav>
-        <!-- navbar end -->
-    </header>
-    <!--* End Header*-->
 
     <!--* Services*-->
     <section id="mt_services" class="services_one" style="margin-top: 50px;">
@@ -84,10 +51,10 @@
     <!--* End Services*-->
 
 
-    <?php include '../includes/layouts/footer.php'; ?>
+    <?php include './includes/layouts/footer.php'; ?>
 
     <!-- back to top -->
-    <?php include '../includes/components/back-to-top.php'; ?>
+    <?php include './includes/components/back-to-top.php'; ?>
 
     <!-- Latest jquery -->
     <script src="../js/jquery-3.2.1.min.js"></script>

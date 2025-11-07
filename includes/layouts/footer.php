@@ -43,13 +43,13 @@ if (!empty($script_dir) && $script_dir != '.' && $script_dir != '/') {
                 <div class="mt_contact_ftr">
                     <h3>Services</h3>
                     <ul>
-                        <li><a href="<?php echo $base_path; ?>/structural-steel-erection.php"><i class="fa fa-angle-right"></i>Structural Steel Erection</a></li>
-                        <li><a href="<?php echo $base_path; ?>services/structural-steel-erection.php"><i class="fa fa-angle-right" style="margin-left: 30px;"></i>Hot Rolled Steel Structures </a></li>
-                        <li><a href="<?php echo $base_path; ?>services/structural-steel-erection.php"><i class="fa fa-angle-right" style="margin-left: 30px;"></i>Pre-Engineered Steel Buildings </a></li>
-                        <li><a href="<?php echo $base_path; ?>services/cladding.php"><i class="fa fa-angle-right"></i>Cladding</a></li>
-                        <li><a href="<?php echo $base_path; ?>services/cladding.php"><i class="fa fa-angle-right" style="margin-left: 30px;"></i>Single Skin and Sandwich Panel</a></li>
-                        <li><a href="<?php echo $base_path; ?>services/cladding.php"><i class="fa fa-angle-right" style="margin-left: 30px;"></i>Decking</a></li>
-                        <li><a href="<?php echo $base_path; ?>services/cladding.php"><i class="fa fa-angle-right" style="margin-left: 30px;"></i>Standing Seam</a></li>
+                        <li><a href="<?php echo $base_path; ?>structural-steel-erection.php"><i class="fa fa-angle-right"></i>Structural Steel Erection</a></li>
+                        <li><a href="<?php echo $base_path; ?>structural-steel-erection.php"><i class="fa fa-angle-right" style="margin-left: 30px;"></i>Hot Rolled Steel Structures </a></li>
+                        <li><a href="<?php echo $base_path; ?>structural-steel-erection.php"><i class="fa fa-angle-right" style="margin-left: 30px;"></i>Pre-Engineered Steel Buildings </a></li>
+                        <li><a href="<?php echo $base_path; ?>cladding.php"><i class="fa fa-angle-right"></i>Cladding</a></li>
+                        <li><a href="<?php echo $base_path; ?>cladding.php"><i class="fa fa-angle-right" style="margin-left: 30px;"></i>Single Skin and Sandwich Panel</a></li>
+                        <li><a href="<?php echo $base_path; ?>cladding.php"><i class="fa fa-angle-right" style="margin-left: 30px;"></i>Decking</a></li>
+                        <li><a href="<?php echo $base_path; ?>cladding.php"><i class="fa fa-angle-right" style="margin-left: 30px;"></i>Standing Seam</a></li>
                     </ul>
                 </div>
             </div>
