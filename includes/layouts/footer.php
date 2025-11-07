@@ -27,10 +27,10 @@
                 <div class="mt_contact_ftr">
                     <h3>Services</h3>
                     <ul>
-                        <li><a href="./services.php"><i class="fa fa-angle-right"></i>Structural Steel Erection</a></li>
+                        <li><a href="./services/structural-steel-erection.php"><i class="fa fa-angle-right"></i>Structural Steel Erection</a></li>
                         <li><a href="./services.php"><i class="fa fa-angle-right" style="margin-left: 30px;"></i>Hot Rolled Steel Structures </a></li>
                         <li><a href="./services.php"><i class="fa fa-angle-right" style="margin-left: 30px;"></i>Pre-Engineered Steel Buildings </a></li>
-                        <li><a href="./services.php"><i class="fa fa-angle-right"></i>Cladding</a></li>
+                        <li><a href="./services/cladding.php"><i class="fa fa-angle-right"></i>Cladding</a></li>
                         <li><a href="./services.php"><i class="fa fa-angle-right" style="margin-left: 30px;"></i>Single Skin and Sandwich Panel</a></li>
                         <li><a href="./services.php"><i class="fa fa-angle-right" style="margin-left: 30px;"></i>Decking</a></li>
                         <li><a href="./services.php"><i class="fa fa-angle-right" style="margin-left: 30px;"></i>Standing Seam</a></li>
