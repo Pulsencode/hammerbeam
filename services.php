@@ -50,7 +50,68 @@
                     </div>
                 </div>
             </div>
+            <section id="mt_services" class="services_one">
+                <div class="container">
+                    <div class="services-detail mar-bottom-80">
+                        <h2 class="mar-bottom-15 text-center" style="font-size:60px;">Cladding</h2>
+                        <p>At HammerBeam Contracting LLC, we specialize in the installation of advanced roof cladding solutions that combine durability, performance, and aesthetics. That are engineered to meet the demanding requirements of industrial, commercial, and architectural projects across the region — ensuring long-term reliability and superior weather protection.</p>
+                        <div class="row" style="margin-top: 70px;">
+                            <div class="col-md-8 col-sm-12">
+                                <h2 class="mar-bottom-15">Single Skin & Sandwich Panel</h2>
+                                <p>An economical and versatile roofing solution made from profiled metal sheets, providing durable protection against the elements. Ideal for warehouses and industrial structures, single skin cladding offers quick installation and low maintenance. Engineered for performance and efficiency, sandwich panels consist of two metal facings bonded to an insulated core (PU, PIR, or Rockwool). This system ensures superior thermal insulation, aesthetic appeal, and rapid installation, making it a preferred choice for commercial, industrial, and cold storage facilities.</p>
+                            </div>
+                            <div class="col-md-4 col-sm-12">
+                                <img src="../images/services/Single Skin & Sandwich Panel.jpg" alt="services-img">
+                            </div>
+                        </div>
+                        <div class="row" style="margin-top: 70px;">
+                            <div class="col-md-4 col-sm-12">
+                                <img src="../images/services/Decking.jpg" alt="services-img">
+                            </div>
+                            <div class="col-md-8 col-sm-12">
+                                <h2 class="mar-bottom-15">Decking</h2>
+                                <p>Metal decking is a structural base system engineered to provide superior support for concrete slabs or insulation layers in modern construction. Its corrugated steel sheets offer exceptional strength-to-weight performance, making it an ideal choice for high-rise buildings, industrial facilities, and mezzanine floors. By serving as both formwork and reinforcement, metal decking eliminates the need for temporary supports, significantly reducing labor and installation time on-site. Beyond its structural efficiency, metal decking delivers long-term durability and design flexibility. It enhances load-bearing capacity, resists deformation under pressure, and integrates seamlessly with concrete to form a solid, composite floor system.</p>
+                            </div>
+                        </div>
+                        <div class="row" style="margin-top: 70px;">
+                            <div class="col-md-8 col-sm-12">
+                                <h2 class="mar-bottom-15">Standing Seam Roofing</h2>
+                                <p>A high-performance standing seam roofing system is engineered to deliver both durability and modern aesthetics. It features concealed fasteners and raised interlocking seams that ensure exceptional weather tightness, preventing leaks and enhancing resistance to heavy rain, wind uplift, and temperature fluctuations. This system allows for thermal expansion and contraction, minimizing stress on panels and preserving structural integrity over time. With its clean, uninterrupted lines and sleek architectural finish, standing seam roofing provides a contemporary appearance that complements both commercial and industrial designs. It is available in a variety of materials such as aluminum, galvanized steel, and coated metal, each offering superior corrosion resistance and longevity.</p>
+                            </div>
+                            <div class="col-md-4 col-sm-12">
+                                <img src="../images/services/Standing Seam Roofing.jpg" alt="services-img">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
+            <section id="mt_services" >
+                <div class="container">
+                    <div class="services-detail mar-bottom-80">
+                        <h2 class="mar-bottom-15 text-center" style="font-size:60px;">Structural Steel Erection</h2>
+                        <p>At HammerBeam Contracting LLC, we deliver reliable and precise structural steel erection services for industrial, commercial, and infrastructure projects. Our experienced team ensures safe installation, accuracy, and efficiency — meeting the highest standards of quality and structural integrity.</p>
+                        <div class="row" style="margin-top: 70px;">
+                            <div class="col-md-8 col-sm-12">
+                                <h2 class="mar-bottom-15">Hot Rolled Steel Structure - Erection</h2>
+                                <p>HammerBeam Contracting L.L.C. specializes in the erection and installation of hot rolled steel structures for industrial, commercial, and infrastructure projects. Our experienced teams ensure safe, precise, and efficient assembly of large-scale frameworks, including mezzanines, platforms, and structural support systems. Each project is executed in full compliance with engineering drawings, international codes, and client specifications. <br> With a dedicated team of erectors, riggers, and site supervisors, HammerBeam delivers comprehensive on-site erection services for primary framing systems, trusses, columns, beams, and custom assemblies. By combining technical proficiency, advanced equipment, and a strong focus on safety and quality, we ensure reliable performance, long-term stability, and timely project completion, earning trust across diverse construction projects.</p>
+                            </div>
+                            <div class="col-md-4 col-sm-12">
+                                <img src="../images/services/Hot Rolled Steel Structure - Erection.jpg" alt="services-img">
+                            </div>
+                        </div>
+                        <div class="row" style="margin-top: 70px;">
+                            <div class="col-md-4 col-sm-12">
+                                <img src="../images/services/Pre-Engineered Steel Structures.jpg" alt="services-img">
+                            </div>
+                            <div class="col-md-8 col-sm-12">
+                                <h2 class="mar-bottom-15">Pre-Engineered Steel Structures - Erection</h2>
+                                <p>HammerBeam Contracting L.L.C. specializes in the erection and installation of Pre-Engineered Steel Structures (PEB) for industrial, commercial, and logistics developments. Our experienced teams ensure every structure is assembled with precision, safety, and efficiency—maintaining the highest standards of quality and engineering integrity. We handle the complete on-site erection process, including framing, bracing, wall and roof panel installation, and all related accessories. <br> Through safe lifting practices, accurate connection works, and systematic sequencing, HammerBeam delivers smooth, fast, and reliable installations across diverse project types such as warehouses, factories, workshops, and logistics centers. Backed by technical expertise, advanced equipment, and a strong focus on safety and quality, we provide dependable steel erection services that consistently meet project timelines and deliver lasting value.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
             <div class="services_listing mar-top-30">
                 <div class="row">
                     <div class="col-xs-12">

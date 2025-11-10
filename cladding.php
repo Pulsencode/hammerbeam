@@ -21,7 +21,7 @@
                 <div class="row" style="margin-top: 70px;">
                     <div class="col-md-8 col-sm-12">
                         <h2 class="mar-bottom-15">Single Skin & Sandwich Panel</h2>
-                        <p>An economical and versatile roofing solution made from profiled metal sheets, providing durable protection against the elements. Ideal for warehouses and industrial structures, single skin cladding offers quick installation and low maintenance. Engineered for performance and efficiency, sandwich panels consist of two metal facings bonded to an insulated core (PU, PIR, or Rockwool). This system ensures superior thermal insulation, aesthetic appeal, and rapid installation — making it a preferred choice for commercial, industrial, and cold storage facilities.</p>
+                        <p>An economical and versatile roofing solution made from profiled metal sheets, providing durable protection against the elements. Ideal for warehouses and industrial structures, single skin cladding offers quick installation and low maintenance. Engineered for performance and efficiency, sandwich panels consist of two metal facings bonded to an insulated core (PU, PIR, or Rockwool). This system ensures superior thermal insulation, aesthetic appeal, and rapid installation, making it a preferred choice for commercial, industrial, and cold storage facilities.</p>
                     </div>
                     <div class="col-md-4 col-sm-12">
                         <img src="../images/services/Single Skin & Sandwich Panel.jpg" alt="services-img">
@@ -33,13 +33,13 @@
                     </div>
                     <div class="col-md-8 col-sm-12">
                         <h2 class="mar-bottom-15">Decking</h2>
-                        <p>A structural base designed to support concrete or insulation layers, metal decking combines strength and practicality. Commonly used in multi-storey buildings and mezzanines, it serves as both a permanent formwork and reinforcement, enabling faster construction and long-term durability.</p>
+                        <p>Metal decking is a structural base system engineered to provide superior support for concrete slabs or insulation layers in modern construction. Its corrugated steel sheets offer exceptional strength-to-weight performance, making it an ideal choice for high-rise buildings, industrial facilities, and mezzanine floors. By serving as both formwork and reinforcement, metal decking eliminates the need for temporary supports, significantly reducing labor and installation time on-site. Beyond its structural efficiency, metal decking delivers long-term durability and design flexibility. It enhances load-bearing capacity, resists deformation under pressure, and integrates seamlessly with concrete to form a solid, composite floor system.</p>
                     </div>
                 </div>
                 <div class="row" style="margin-top: 70px;">
                     <div class="col-md-8 col-sm-12">
                         <h2 class="mar-bottom-15">Standing Seam Roofing</h2>
-                        <p>A high-performance roofing system featuring concealed fasteners and raised seams for exceptional weather tightness and a sleek architectural finish. Standing seam roofs accommodate thermal movement and deliver long-lasting protection — ideal for modern commercial and industrial projects.</p>
+                        <p>A high-performance standing seam roofing system is engineered to deliver both durability and modern aesthetics. It features concealed fasteners and raised interlocking seams that ensure exceptional weather tightness, preventing leaks and enhancing resistance to heavy rain, wind uplift, and temperature fluctuations. This system allows for thermal expansion and contraction, minimizing stress on panels and preserving structural integrity over time. With its clean, uninterrupted lines and sleek architectural finish, standing seam roofing provides a contemporary appearance that complements both commercial and industrial designs. It is available in a variety of materials such as aluminum, galvanized steel, and coated metal, each offering superior corrosion resistance and longevity.</p>
                     </div>
                     <div class="col-md-4 col-sm-12">
                         <img src="../images/services/Standing Seam Roofing.jpg" alt="services-img">
