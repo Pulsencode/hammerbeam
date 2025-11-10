@@ -14,13 +14,13 @@
     <meta property="og:description" content="Trusted partner for industrial and commercial steel structures — fabrication, erection & turnkey contracting.">
     <meta property="og:url" content="https://hammerbeamcontracting.com/">
     <meta property="og:site_name" content="Hammerbeam Contracting LLC">
-    <meta property="og:image" content="https://hammerbeamcontracting.com/images/services/service-page.jpg">
+    <meta property="og:image" content="https://hammerbeamcontracting.com/images/c-logo.png">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Hammerbeam Contracting LLC | Structural Steel Experts">
     <meta name="twitter:description" content="Precision-led structural steel fabrication & erection services across the UAE.">
-    <meta name="twitter:image" content="https://hammerbeamcontracting.com/images/services/service-page.jpg">
+    <meta name="twitter:image" content="https://hammerbeamcontracting.com/images/c-logo.png">
 
     <!-- Mobile + Browser essentials -->
     <meta name="viewport" content="width=device-width, initial-scale=1">

@@ -15,7 +15,7 @@ if (!empty($script_dir) && $script_dir != '.' && $script_dir != '/') {
 }
 ?>
 <!--* Choose Us*-->
-<section id="choose_us" class="about_choose_us">
+<section id="choose_us" class="about_choose_us" style="margin-bottom: 30px;">
     <div class="container">
 
         <div class="row">
