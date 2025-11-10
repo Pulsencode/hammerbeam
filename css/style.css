@@ -4759,3 +4759,16 @@ p.lt-pswrd{margin-bottom: 20px;}
     padding: 10px !important;
     margin-top: 15px;
 }
+
+.lrn-more-btn {
+  background-color: white;
+}
+
+.lrn-more-btn:hover {
+  background-color: white;
+  color: black !important;
+}
+
+.fa-arrow-up{
+    color: rgb(196, 196, 196);
+}
