@@ -50,7 +50,33 @@
                     </div>
                 </div>
             </div>
-            <section id="mt_services" class="services_one">
+            <section id="mt_services" style="padding-bottom: 0px;">
+                <div class="container">
+                    <div class="services-detail mar-bottom-80">
+                        <h2 class="mar-bottom-15 text-center" style="font-size:60px;">Structural Steel Erection</h2>
+                        <p>At HammerBeam Contracting LLC, we deliver reliable and precise structural steel erection services for industrial, commercial, and infrastructure projects. Our experienced team ensures safe installation, accuracy, and efficiency — meeting the highest standards of quality and structural integrity.</p>
+                        <div class="row" style="margin-top: 70px;">
+                            <div class="col-md-8 col-sm-12">
+                                <h2 class="mar-bottom-15">Hot Rolled Steel Structure - Erection</h2>
+                                <p>HammerBeam Contracting L.L.C. specializes in the erection and installation of hot rolled steel structures for industrial, commercial, and infrastructure projects. Our experienced teams ensure safe, precise, and efficient assembly of large-scale frameworks, including mezzanines, platforms, and structural support systems. Each project is executed in full compliance with engineering drawings, international codes, and client specifications. <br> With a dedicated team of erectors, riggers, and site supervisors, HammerBeam delivers comprehensive on-site erection services for primary framing systems, trusses, columns, beams, and custom assemblies. By combining technical proficiency, advanced equipment, and a strong focus on safety and quality, we ensure reliable performance, long-term stability, and timely project completion, earning trust across diverse construction projects.</p>
+                            </div>
+                            <div class="col-md-4 col-sm-12">
+                                <img src="../images/services/structure.jpg" alt="services-img">
+                            </div>
+                        </div>
+                        <div class="row" style="margin-top: 70px;">
+                            <div class="col-md-4 col-sm-12">
+                                <img src="../images/services/Pre-Engineered Steel Structures.jpg" alt="services-img">
+                            </div>
+                            <div class="col-md-8 col-sm-12">
+                                <h2 class="mar-bottom-15">Pre-Engineered Steel Structures - Erection</h2>
+                                <p>HammerBeam Contracting L.L.C. specializes in the erection and installation of Pre-Engineered Steel Structures (PEB) for industrial, commercial, and logistics developments. Our experienced teams ensure every structure is assembled with precision, safety, and efficiency—maintaining the highest standards of quality and engineering integrity. We handle the complete on-site erection process, including framing, bracing, wall and roof panel installation, and all related accessories. <br> Through safe lifting practices, accurate connection works, and systematic sequencing, HammerBeam delivers smooth, fast, and reliable installations across diverse project types such as warehouses, factories, workshops, and logistics centers. Backed by technical expertise, advanced equipment, and a strong focus on safety and quality, we provide dependable steel erection services that consistently meet project timelines and deliver lasting value.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section style="padding-top: 0px;">
                 <div class="container">
                     <div class="services-detail mar-bottom-80">
                         <h2 class="mar-bottom-15 text-center" style="font-size:60px;">Cladding</h2>
@@ -80,33 +106,6 @@
                             </div>
                             <div class="col-md-4 col-sm-12">
                                 <img src="../images/services/Standing Seam Roofing.jpg" alt="services-img">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section id="mt_services" >
-                <div class="container">
-                    <div class="services-detail mar-bottom-80">
-                        <h2 class="mar-bottom-15 text-center" style="font-size:60px;">Structural Steel Erection</h2>
-                        <p>At HammerBeam Contracting LLC, we deliver reliable and precise structural steel erection services for industrial, commercial, and infrastructure projects. Our experienced team ensures safe installation, accuracy, and efficiency — meeting the highest standards of quality and structural integrity.</p>
-                        <div class="row" style="margin-top: 70px;">
-                            <div class="col-md-8 col-sm-12">
-                                <h2 class="mar-bottom-15">Hot Rolled Steel Structure - Erection</h2>
-                                <p>HammerBeam Contracting L.L.C. specializes in the erection and installation of hot rolled steel structures for industrial, commercial, and infrastructure projects. Our experienced teams ensure safe, precise, and efficient assembly of large-scale frameworks, including mezzanines, platforms, and structural support systems. Each project is executed in full compliance with engineering drawings, international codes, and client specifications. <br> With a dedicated team of erectors, riggers, and site supervisors, HammerBeam delivers comprehensive on-site erection services for primary framing systems, trusses, columns, beams, and custom assemblies. By combining technical proficiency, advanced equipment, and a strong focus on safety and quality, we ensure reliable performance, long-term stability, and timely project completion, earning trust across diverse construction projects.</p>
-                            </div>
-                            <div class="col-md-4 col-sm-12">
-                                <img src="../images/services/Hot Rolled Steel Structure - Erection.jpg" alt="services-img">
-                            </div>
-                        </div>
-                        <div class="row" style="margin-top: 70px;">
-                            <div class="col-md-4 col-sm-12">
-                                <img src="../images/services/Pre-Engineered Steel Structures.jpg" alt="services-img">
-                            </div>
-                            <div class="col-md-8 col-sm-12">
-                                <h2 class="mar-bottom-15">Pre-Engineered Steel Structures - Erection</h2>
-                                <p>HammerBeam Contracting L.L.C. specializes in the erection and installation of Pre-Engineered Steel Structures (PEB) for industrial, commercial, and logistics developments. Our experienced teams ensure every structure is assembled with precision, safety, and efficiency—maintaining the highest standards of quality and engineering integrity. We handle the complete on-site erection process, including framing, bracing, wall and roof panel installation, and all related accessories. <br> Through safe lifting practices, accurate connection works, and systematic sequencing, HammerBeam delivers smooth, fast, and reliable installations across diverse project types such as warehouses, factories, workshops, and logistics centers. Backed by technical expertise, advanced equipment, and a strong focus on safety and quality, we provide dependable steel erection services that consistently meet project timelines and deliver lasting value.</p>
                             </div>
                         </div>
                     </div>
