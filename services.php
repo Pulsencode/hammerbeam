@@ -61,7 +61,7 @@
                                 <p>HammerBeam Contracting L.L.C. specializes in the erection and installation of hot rolled steel structures for industrial, commercial, and infrastructure projects. Our experienced teams ensure safe, precise, and efficient assembly of large-scale frameworks, including mezzanines, platforms, and structural support systems. Each project is executed in full compliance with engineering drawings, international codes, and client specifications. <br> With a dedicated team of erectors, riggers, and site supervisors, HammerBeam delivers comprehensive on-site erection services for primary framing systems, trusses, columns, beams, and custom assemblies. By combining technical proficiency, advanced equipment, and a strong focus on safety and quality, we ensure reliable performance, long-term stability, and timely project completion, earning trust across diverse construction projects.</p>
                             </div>
                             <div class="col-md-4 col-sm-12">
-                                <img src="../images/services/structure.jpg" alt="services-img">
+                                <img src="../images/services/hot-rolled.jpg" alt="services-img">
                             </div>
                         </div>
                         <div class="row" style="margin-top: 70px;">
