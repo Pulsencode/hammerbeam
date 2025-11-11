@@ -85,7 +85,7 @@
                     <div class="box mar-bottom-30 text-center">
                         <img src="images/services/steel-fabri.jpg" alt="services-3">
                         <div class="box-content">
-                            <h3>Roof Cladding</h3>
+                            <h3>Cladding</h3>
                             <p>At HammerBeam Contracting LLC, we specialize in advanced roof cladding solutions that combine durability, performance, and aesthetics — ensuring long-term reliability for industrial, commercial, and architectural projects.</p>
                         </div>
                     </div>
