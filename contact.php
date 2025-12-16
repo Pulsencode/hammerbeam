@@ -33,22 +33,22 @@
     <!--* Contact*-->
     <section id="mt_contact" class="contact-main" style="margin-top: 30px;">
         <div class="container">
-
             <div class="row">
                 <div class="col-xs-12 mar-bottom-30">
                     <div class="contact-info text-center">
                         <ul>
-                            <li><i class="fa fa-map-marker"></i> UAE</li>
-                            <li><i class="fa fa-phone"></i> +43 21645896</li>
-                            <li><i class="fa fa-envelope"></i> info@hammerbeamcontracting.com</li>
-                            <li><i class="fa fa-globe"></i> www.hammerbeamcontracting.com</li>
+                            <li><i class="fa fa-map-marker"></i> Iris Bay 901, Office No. 58, Business Bay, Dubai, United Arab Emirates</li>
+                            <li><i class="fa fa-phone"></i> +971504118875</li>
+                            <li><i class="fa fa-phone"></i> +971502744998</li>
+                            <li style="margin-top: 10px;"><i class="fa fa-phone"></i> +971503665591</li>
+                            <li style="margin-top: 10px;"><i class="fa fa-envelope"></i> info@hammerbeamcontracting.com</li>
                         </ul>
                     </div>
                 </div>
             </div>
             <div class="map mar-bottom-30">
                 <!-- <div id="map" style="height: 300px; width: 100%;"></div> -->
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d287981.9215609145!2d54.246793421239786!3d24.386824230044454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e440f723ef2b9%3A0xc7cc2e9341971108!2sAbu%20Dhabi%20-%20United%20Arab%20Emirates!5e1!3m2!1sen!2sin!4v1759993478168!5m2!1sen!2sin" height="450" style="height: 300px; width: 100%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3455.3742508843193!2d55.2600762!3d25.185899799999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f69001c8d0399%3A0x8f6d40395efc45af!2sIris%20Bay%20Tower!5e1!3m2!1sen!2sae!4v1765899079594!5m2!1sen!2sae" height="450" style="height: 300px; width: 100%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
     </section>
