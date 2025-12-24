@@ -55,7 +55,7 @@ if (!empty($script_dir) && $script_dir != '.' && $script_dir != '/') {
                         <a href="<?php echo $base_path; ?>contact.php">Contact Us<i class="fa"></i></a>
                     </li>
                     <li>
-                        <a href="tel:+971501234567" id="custom-cta-btn">Call Us Now!</a>
+                        <a href="tel:+971503665591" id="custom-cta-btn">Call Us Now!</a>
                     </li>
                 </ul>
             </div><!--/.nav-collapse -->
